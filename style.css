@@ -1,0 +1,11 @@
+html, body {
+  margin: 100;
+  padding: 100;
+  
+}
+canvas {
+  display: block;
+  border:5px solid turquoise;
+ 
+
+}
