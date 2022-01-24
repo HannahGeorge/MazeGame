@@ -55,9 +55,9 @@ var vwa1, vwa2, vwa3, vwa4,
    
 function preload()
 {
-  ballimg = loadAnimation("images/ball1.png","images/ball22.png")
+  ballimg = loadAnimation("ball1.png","ball22.png")
   
-  trophyImg = loadImage("images/Gold_Trophy.png");
+  trophyImg = loadImage("Gold_Trophy.png");
 }
 
 function setup() {
